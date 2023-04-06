@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @bhupen9927
-- 👀 I’m interested in AI based projects 
-- 🌱 I’m currently learning MAsters of computer Applications course
-- 💞️ I’m looking to collaborate on AI based projects
+- 👋 Hi, I’m Bhupendra Singh
+- 👀 I’m interested in web development 
+- 🌱 I’m currently learning Master of computer Applications course
+- 💞️ I’m looking to collaborate on web development based projects
 - 📫 How to reach me bhupendrasingh32709@gmail.com
 
 <!---
