@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bhupendra Singh
 - 👀 I’m interested in Frontend web development 
-- 🌱 I’m currently learning Master of computer Applications course
+- 🌱 I have completed computer Applications course
 - 💞️ I’m looking to collaborate on web development based projects
 - 📫 Reach me bhupendrasingh32709@gmail.com
 
